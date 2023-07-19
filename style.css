@@ -9,3 +9,8 @@ body {
 .nav a:hover{
     color:lime;
 }
+.infome h1,h2{
+    font-size: 40px;
+    color:white;
+    margin-left: 50px;
+}
