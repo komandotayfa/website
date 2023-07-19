@@ -1,0 +1,11 @@
+body {
+    background-color: black;
+    color: white;
+    font-family:"Lucida Console", "Courier New", monospace;
+}
+.nav a{
+    color:white;
+}
+.nav a:hover{
+    color:lime;
+}
