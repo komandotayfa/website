@@ -13,4 +13,11 @@ body {
     font-size: 40px;
     color:white;
     margin-left: 50px;
+    margin-right: 50px;
+}
+.infome a{
+    color:white;
+}
+.infome a:hover{
+    color:lime;
 }
